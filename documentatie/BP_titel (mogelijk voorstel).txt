@@ -1,2 +1,1 @@
-TITLE: Domain level tripple A authentication and security using Citrix Netscaler.
-KEYWORDS: domain, active directory, authentication, AAA, SSO, SAML, OAuth, OpenID Connect, RADIUS, TACACS, certificate, negotiate, NTLM, SP, IDP, UMT, security, PKI, perfect forward secrecy, cipher suite, netscaler
+Opzetten van een Citrix ShareFile met lokale StorageZone door middel van een NetScaler met AAA functionaliteit
