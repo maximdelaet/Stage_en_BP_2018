@@ -1,1 +1,0 @@
-Opzetten van een Citrix ShareFile met lokale StorageZone door middel van een NetScaler met AAA functionaliteit
