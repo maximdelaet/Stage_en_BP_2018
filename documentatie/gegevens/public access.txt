@@ -2,9 +2,9 @@ NetScaler in DMZ (met certificaat)
 (Netscaler is ook loadbalancer)
 
 DNS record(s):
-A: sharefile.icorda.be 172.16.0.45/16
-A: storage.icorda.be 172.16.0.45/16
-C: storagezone.icorda.be 172.16.0.45/16
+A: sharefile.icorda.be 194.78.114.83
+A: storage.icorda.be 194.78.114.83
+C: storagezone.icorda.be 194.78.114.83
 
 port forwarding:
 ports: 80, 443
