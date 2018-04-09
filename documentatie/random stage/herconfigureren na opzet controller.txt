@@ -1,3 +1,0 @@
-- ShareFile configuration
-- change subdomain to icorda
-- check OAuth policy
