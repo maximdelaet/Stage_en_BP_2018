@@ -1,0 +1,6 @@
+- Verbeteren.
+- Cijfers onder de 20 voluit.
+- Virtual wordt virtuele.
+- SSO herschrijven.
+- Omschrijving uitbreiden.
+- Figuren fixen en in het midden zetten.
