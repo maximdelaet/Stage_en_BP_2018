@@ -1,2 +1,0 @@
-- Cijfers onder de 20 voluit.
-- Figuren fixen en in het midden zetten.
